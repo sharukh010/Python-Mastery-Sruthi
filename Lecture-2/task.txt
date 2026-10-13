@@ -1,0 +1,15 @@
+Take two integers as input from the user 
+and perform all the arithematic operations 
+
+sample input: 
+Enter 1st number: 5 
+Enter 2nd number: 2 
+
+sample output: 
+Addition: 7 
+Subtraction: 3 
+Multiplication: 10 
+Division : 2.5 
+Division (floor): 2 
+Division (modulo): 1 
+Power : 25 
