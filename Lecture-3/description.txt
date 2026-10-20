@@ -1,0 +1,10 @@
+There are three different types of modules in python 
+1. Custom modules - which are created by us 
+- they are nothing but a python file 
+2. External modules - which are created by some other people 
+they are in internet 
+- to use them you need to download them 
+3. inbuilt modules - this are modules that comes along with python 
+if you want to use them just import them directly 
+ex: random , math
+
