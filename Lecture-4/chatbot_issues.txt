@@ -1,0 +1,7 @@
+1. unable to as more than one question 
+fixed by: adding  an infinite while loop 
+2. case sensitivity 
+fixed by: converting the value to lower() while checking 
+3. space sensitivity
+fixed by: remvoing spaces 
+4. unable to answer partial questions 
