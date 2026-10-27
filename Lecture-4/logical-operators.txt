@@ -1,0 +1,33 @@
+Logical operators: 
+1. and 
+2. or 
+3. not 
+
+this logical operators are used to combine multiple conditions 
+
+ex: 
+1. And 
+i need coke and chips
+- here you need both of them 
+- here we need both them then only the result will be true 
+ex: c1 and c2 
+the result will be True if both them are True 
+in any other cases it will be false 
+
+2. or 
+i need coke or chips 
+- here you need any of them 
+- here you will be satisfied whenever you get any one of them or both of them 
+- satisfied means True 
+- disappointed means False 
+ex: c1 or c2 
+the result will be True if any one of them is True 
+the result will be false whenever both of them are false 
+
+3. not 
+here you have only two options coke or chips 
+i dont want coke -> i need chips 
+i dont want chips -> i need coke 
+ex: not True -> False 
+    not False -> True 
+we use not with single condition not c1 , not c2 , not ( c1 and c2)
