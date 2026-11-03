@@ -1,0 +1,5 @@
+We are going to use numerical values to represent 
+rock, paper and scissors 
+1. Rock 
+2. Paper 
+3. Scissors 
